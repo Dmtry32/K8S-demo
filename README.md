@@ -30,6 +30,13 @@ Vérifier que Docker est installé et en cours d'exécution.
 Redémarrer Docker.
 Redémarrer votre ordinateur.
 J'espère que cela vous aidera!
+![image](https://github.com/Dmtry32/K8S-demo/assets/88732558/7a81dc2a-bb7b-4c30-8af8-6787916f3eaf)
+
+
+
+
+
+
 
 Setup minikube on widows using powershell:
 
